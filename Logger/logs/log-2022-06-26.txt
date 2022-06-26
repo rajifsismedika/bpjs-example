@@ -1,0 +1,7 @@
+[2022-06-26 12:27:59] [455] : [INFO] - [CRON-New Antrian][1656221279] Processed with data : {"AntrianID":9402} 
+[2022-06-26 12:27:59] [455] : [INFO] - [CRON-New Antrian][1656221279] Processed with data : {"AntrianID":9402} 
+[2022-06-26 12:27:59] [455] : [INFO] - [CRON-New Antrian][1656221279] Processed with data : {"AntrianID":9402} 
+[2022-06-26 12:27:59] [455] : [INFO] - [CRON-New Antrian][1656221279] Processed with data : {"AntrianID":9402} 
+[2022-06-26 12:28:00] [455] : [INFO] - [CRON-New Antrian][1656221280] Processed with data : {"AntrianID":9402} 
+[2022-06-26 12:34:41] [448] : [INFO] - [CRON-New Antrian][1656221681] Processed with data : {"AntrianID":9402} 
+[2022-06-26 12:44:16] [457] : [INFO] - [CRON-New Antrian][1656222256] Processed with data : {"AntrianID":9402} 
