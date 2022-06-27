@@ -203,7 +203,7 @@ function getFromRegpas($limit = 10) {
 
     // TODO CHANGE THIS
     $limit = $limit ? "LIMIT $limit" : '';
-    $regpases = getAll($HIS, "SELECT RegID, TanggalBuat FROM regpas WHERE NA = 'N' AND TanggalBuat > ? ORDER BY TanggalBuat ASC ?;", [$newSyncStart, $limit]);
+    $regpases = getAll($HIS, "SELECT RegID, TanggalBuat FROM regpas WHERE NA = 'N' AND TanggalBuat > ? ORDER BY TanggalBuat ASC ".$limit.";", [$newSyncStart]);
 
     $syncStart = '';
     $syncEnd = '';
